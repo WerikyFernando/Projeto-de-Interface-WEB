@@ -1,0 +1,25 @@
+
+
+.curriculo{
+  border-style: solid;
+}
+.cabeçalho{
+  background-color: #d9d9d9;
+  margin: 20px;
+}
+.lista{
+  text-align: right;
+
+}
+.tópicos{
+  background-color: white;
+  margin: 20px;
+  text-align: justify;
+}
+.textObjetivo, .textEducaçao , .textHabilidades, .textExperiencia, .textAtividades{
+  margin: 25px;
+}
+  
+.nome{
+  font-size: 25px;
+}
